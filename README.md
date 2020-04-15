@@ -1,5 +1,7 @@
 # Tech Test
 
+This is my (successful) response to a tech test I was given in February 2020.
+
 ## Instructions
 
 A loan consists of a Loan ID, a borrower name, a repayment amount, and a funding amount (amount given to the borrower which is less than the repayment amount).
