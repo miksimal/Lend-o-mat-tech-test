@@ -1,0 +1,8 @@
+{
+  "short_name": "Lend-o-Matic",
+  "name": "Lend-o-Matic SPA to interact with .NET Core web API",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

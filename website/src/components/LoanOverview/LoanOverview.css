@@ -1,0 +1,67 @@
+.LoanOverview {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    text-align: center;
+}
+
+.LoanOverview label {
+    display: inline;
+    margin: 10px auto;
+    text-align: center;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.LoanOverview input {
+    width: 7.5%;
+    box-sizing: border-box;
+    border: 1px solid black;
+    outline: none;
+    font: inherit;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    text-align: left;
+    table-layout: fixed;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.NothingFound {
+    text-align: center;
+}
+th:first-child {
+    width: 40px;
+}
+
+th:nth-child(2) {
+    width: 40px;
+}
+
+th:nth-child(3) {
+    width: 175px;
+}
+
+th:nth-child(4) {
+    width: 100px;
+}
+
+th:nth-child(5) {
+    width: 100px;
+}
+
+td:first-child:hover, td:first-child:focus {
+    color: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+td:first-child {
+    text-align: center;
+}
+
+td {
+    height: 50px;
+}
